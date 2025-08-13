@@ -1,0 +1,16 @@
+body {
+  padding-top: 70px;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+footer a {
+  font-size: 1.2rem;
+}
+.heroCarousel{
+    width: 200px; /* Adjust size as needed */
+    height: auto; /* Keep aspect ratio */
+}
+
